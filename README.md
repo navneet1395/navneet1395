@@ -1,5 +1,5 @@
 - 👋 Hi Myself Navneet Gupta 
-- 👀 I’m interested in DATA An
+- 👀 I’m interested in data and frontend devloment
 - 🌱 I’m currently learning flutter devlopment and want to build my future as a flutter devloper.
 - 📫 How to reach me mail me navneetgupta@jklu.edu.in
 
