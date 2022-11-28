@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @navneet1395
-- 👀 I’m interested in DATA
-- 🌱 I’m currently learning AI AND ML
-- 💞️ I’m looking to collaborate FOR THE WORLD TO BE HEALTHY
+- 👋 Hi Myself Navneet Gupta 
+- 👀 I’m interested in DATA An
+- 🌱 I’m currently learning flutter devlopment and want to build my future as a flutter devloper.
 - 📫 How to reach me JUST DM ME ON TWITTER ((Navneet Gupta)     @Navneet77523978 )
 
 <!---
